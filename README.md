@@ -8,7 +8,7 @@
 
 I am a passionate Developer with highly expertised in Fullstack and Smart Contracts.
 
-- 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 7 years.
+- 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 8 years.
 - 🌱 Proficient in both fullstack and smart contract development, with extensive knowledge of various blockchain technologies.
 - ⚡ Enjoys learning new technologies and building innovative solutions that solve real-world problems.
 ---
